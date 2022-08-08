@@ -1,4 +1,5 @@
 # Arturia_Beatstep_for_Video_Editor
+Midi converter to control Premiere Pro and Davinci Resolve with Midi controller.
 I'm not, by any means, a programmer, I'm a video editor and I saw this one video on youtube where an Arturia Beatstep was used
 for video editing and color grading and decided to give it a shot programming some scripts to control Adobe Premiere Pro and
 Davinci Resolve.
